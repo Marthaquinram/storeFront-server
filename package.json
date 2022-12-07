@@ -1,0 +1,19 @@
+{
+  "name": "storefront-server",
+  "version": "1.0.0",
+  "description": "e-commerce store front application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marthaquinram/storeFront-server.git"
+  },
+  "author": "Martha Quintanilla-Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marthaquinram/storeFront-server/issues"
+  },
+  "homepage": "https://github.com/Marthaquinram/storeFront-server#readme"
+}
